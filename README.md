@@ -1,9 +1,9 @@
 # OpenTransitPredictions
 An Elixir service for implementing and testing innovative prediction algorithms on GTFS data
 
-### Vehicle Arrival Time Predictions
+### Whar are Vehicle Arrival Time Predictions?
 
-Vehicle arrival time predictions estimate when a transit vehicle, such as a bus or subway, will reach upcoming stops on its route. These forecasts provide riders with real-time information about expected arrival times.
+Before working in public transit, I assumed public transit service always adhered to schedules and those countdown clocks at stations were the objective truth for when a vehicle will arrive. Silly me. In my defense, I grew up riding commuter rail. Now I understand that what we see counting down at a station are vehicle arrival time predictions; an estimate when a transit vehicle, such as a bus, subway, or train will reach upcoming stops on its route (well, trip really). These forecasts provide riders with real-time information about expected arrival times.
 
 ### Novel Prediction Algorithms
 
