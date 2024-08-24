@@ -11,7 +11,8 @@ Researchers and developers have conceived various innovative prediction algorith
 
 1. Access to relevant, real-time transit and schedule data is essential.
 2. Data must be fetched, processed, and combined, which requires a robust infrastructure and effort.
-3. There is currently no straightforward, modern platform to easily implement and test new prediction algorithms as modular components.
+3. Hybrid approach may provide better results, but benefit from an architecture the enables a pipeline of prediction operations.
+4. There is currently no straightforward, modern platform to easily implement and test new prediction algorithms as modular components.
 
 ### Introducing OpenTransitPredictions
 
